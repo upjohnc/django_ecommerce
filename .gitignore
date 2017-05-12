@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+### jupyter notebook template
+.ipynb_checkpoints/
+.idea/
+*.csv
+
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+__pychache__/
+*.pyc
